@@ -19,4 +19,3 @@ The project description can be found in the [Google Slide](https://docs.google.c
 
 # Application 
 [Weather-Web-App](https://weather-web-application-zeta.vercel.app/)
-blob:https://vercel.com/1c97faf5-57f6-4267-b8d2-66d60d03b68f
