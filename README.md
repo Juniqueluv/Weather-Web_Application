@@ -13,9 +13,10 @@ The project description can be found in the [Google Slide](https://docs.google.c
 ## Preview
 <div style="display:flex">
      <div style="flex:1;padding-left:10px;">
-          <img src="https://user-images.githubusercontent.com/99515673/225871316-8aa48ae7-b092-458c-ba8f-f4be2af1da59.png" width="800"/>
+          <img src="blob:https://vercel.com/1c97faf5-57f6-4267-b8d2-66d60d03b68f" width="800"/>
      </div>
 </div>
 
 # Application 
 [Weather-Web-App](https://weather-web-application-zeta.vercel.app/)
+blob:https://vercel.com/1c97faf5-57f6-4267-b8d2-66d60d03b68f
