@@ -13,7 +13,7 @@ The project description can be found in the [Google Slide](https://docs.google.c
 ## Preview
 <div style="display:flex">
      <div style="flex:1;padding-left:10px;">
-          <img scr"https://weather-web-application-9l2l.vercel.app/" width="800"/>
+          <img scr"blob:https://vercel.com/c0698433-20d6-43f0-b0b8-2c2f7eb414e7" width="800"/>
      </div>
 </div>
 
