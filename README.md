@@ -13,7 +13,7 @@ The project description can be found in the [Google Slide](https://docs.google.c
 ## Preview
 <div style="display:flex">
      <div style="flex:1;padding-left:10px;">
-          <img scr"https://juniqueluv-weather-web-application-nipa.vercel.app/" width="800"/>
+          <img scr"https://vercel.com/api/www/avatar/UNXm6T7ZyHixatBqFDrf2bbu?&s=60" width="800"/>
      </div>
 </div>
 
