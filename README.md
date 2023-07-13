@@ -13,7 +13,7 @@ The project description can be found in the [Google Slide](https://docs.google.c
 ## Preview
 <div style="display:flex">
      <div style="flex:1;padding-left:10px;">
-          <img scr"blob:https://vercel.com/c0698433-20d6-43f0-b0b8-2c2f7eb414e7"/>
+          <img scr"https://user-images.githubusercontent.com/c0698433-20d6-43f0-b0b8-2c2f7eb414e7.png" width="800"/>
      </div>
 </div>
 
