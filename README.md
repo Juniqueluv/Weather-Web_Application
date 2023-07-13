@@ -13,7 +13,7 @@ The project description can be found in the [Google Slide](https://docs.google.c
 ## Preview
 <div style="display:flex">
      <div style="flex:1;padding-left:10px;">
-          <img src="https://github.com/Juniqueluv/Weather-Web_Application/tree/master/images" width="800"/>
+          <img src="https://github.com/Juniqueluv/Weather-Web_Application/tree/master/image" width="800"/>
      </div>
 </div>
 
